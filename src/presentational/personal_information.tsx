@@ -49,12 +49,14 @@ const PersonalInfo: React.SFC<PersonalInfoProps> = () => {
           <Image style={style_image} src={ProfileImage} roundedCircle />
         </div>
         <div style={style_name_div}>
-          <div style={style_name}>Rodobaldo Cupull</div>
+          <div style={style_name}>R. Cupull</div>
         </div>
       </div>
       <div style={style_data}>
-        Santos Suárez Street, #65, apartment 9, Havana, 10500 | +53-54811429,
-        +53-76387640 | <a href="mailto:rcupull@gmail.com">rcupull@gmail.com</a>
+        <b>Name:</b> Rodobaldo Cupull Gómez. <b>Addr:</b> Santos Suárez Street,
+        #65, apartment 9, Havana, 10500. <b>Phones:</b> +53-54811429,
+        +53-76387640. <b>Email: </b>
+        <a href="mailto:rcupull@gmail.com">rcupull@gmail.com</a>
       </div>
     </div>
   );
