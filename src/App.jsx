@@ -18,7 +18,7 @@ const profile = {
   email: "rcupull@gmail.com",
   phone: "+53 54811429",
   links: [
-    { label: "GitHub", href: "https://rcupull.github.io/" },
+    { label: "GitHub", href: "https://github.com/rcupull" },
     { label: "LinkedIn", href: "https://www.linkedin.com/in/rodobaldo-cupull-471935191" },
   ],
   highlights: [
